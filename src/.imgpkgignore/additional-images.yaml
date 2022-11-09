@@ -1,0 +1,4 @@
+# specify additional images here
+
+# additional-images:
+#   - image: quay.io/strimzi/operator:0.31.1
